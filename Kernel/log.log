@@ -1,0 +1,21 @@
+[INFO] 23:29:21:846 Servidor/(26134:26134): Servidor listo para recibir al cliente
+[INFO] 23:29:32:976 Servidor/(26149:26149): Servidor listo para recibir al cliente
+[INFO] 23:29:44:670 Servidor/(26164:26164): Servidor listo para recibir al cliente
+[INFO] 23:30:08:843 Servidor/(26191:26191): Servidor listo para recibir al cliente
+[INFO] 23:34:56:729 Servidor/(26714:26714): Servidor listo para recibir al cliente
+[INFO] 23:36:55:218 Servidor/(26766:26766): Servidor listo para recibir al cliente
+[INFO] 02:02:45:392 Servidor/(2189:2189): Servidor listo para recibir al cliente
+[INFO] 02:11:19:658 Servidor/(2548:2548): Servidor listo para recibir al cliente
+[INFO] 02:14:18:765 Servidor/(2658:2658): Servidor listo para recibir al cliente
+[INFO] 02:28:27:567 Servidor/(3256:3256): Servidor listo para recibir al cliente
+[INFO] 02:50:39:534 Kernel/(5451:5451): Kernel listo para recibir al cliente
+[INFO] 02:50:45:880 Kernel/(5451:5451): Se conecto un cliente!
+[INFO] 02:50:45:880 Kernel/(5451:5451): Me llego el mensaje Estamos conectados 
+
+[ERROR] 02:50:45:880 Kernel/(5451:5451): el cliente se desconecto. Terminando servidor
+[INFO] 17:18:28:423 Kernel/(2475:2475): Kernel listo para recibir al cliente
+[INFO] 17:18:34:329 Kernel/(2490:2490): Kernel listo para recibir al cliente
+[INFO] 17:18:46:213 Kernel/(2475:2475): Se conecto un cliente!
+[INFO] 17:18:46:214 Kernel/(2475:2475): Me llego el mensaje Estamos conectados 
+
+[ERROR] 17:18:46:214 Kernel/(2475:2475): el cliente se desconecto. Terminando servidor
