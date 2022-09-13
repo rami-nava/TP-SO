@@ -19,3 +19,8 @@
 [INFO] 17:18:46:214 Kernel/(2475:2475): Me llego el mensaje Estamos conectados 
 
 [ERROR] 17:18:46:214 Kernel/(2475:2475): el cliente se desconecto. Terminando servidor
+[INFO] 17:40:44:391 Kernel/(1889:1889): Kernel listo para recibir al cliente
+[INFO] 17:40:51:880 Kernel/(1889:1889): Se conecto un cliente!
+[INFO] 17:40:51:881 Kernel/(1889:1889): Me llego el mensaje Estamos conectados 
+
+[ERROR] 17:40:51:881 Kernel/(1889:1889): el cliente se desconecto. Terminando servidor

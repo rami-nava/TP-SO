@@ -1,8 +1,11 @@
 #include "consola.h"
 
-int main(){
+int main(int argc, char** argv){
+	if (argc < 2){
+		return EXIT_FAILURE;
+	}
 	//Archivo config
-    config = config_create("/home/utnso/TP operativos/Consola/cfg/consola.config");
+    config = config_create(argv[1]);
     char* ip_kernel = config_get_string_value(config, "IP_KERNEL");
     char* puerto_kernel = config_get_string_value(config, "PUERTO_KERNEL");
 
@@ -17,6 +20,8 @@ int main(){
     conexion = crear_conexion(ip_kernel, puerto_kernel);
     enviar_mensaje("Estamos conectados \n",conexion);
     terminar_programa(logger, config,conexion);
+
+
 }
 
 // void terminar_programa(int conexion, t_log* logger, t_config* config)

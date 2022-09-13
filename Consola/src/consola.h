@@ -8,6 +8,8 @@
 #include<commons/config.h>
 
 #include "utils.h"
+//#include "/home/utnso/TP-SO/Utils/src/utilsServidor.h"
+//#include "/home/utnso/TP-SO/Utils/src/utilsCliente.h"
 
 t_config* config;
 t_log* logger;
