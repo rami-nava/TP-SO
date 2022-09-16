@@ -64,3 +64,136 @@
 [INFO] 02:50:25:611 consola/(5416:5416): PUERTO KERNEL: 4444
 [INFO] 02:50:45:878 consola/(5461:5461): IP KERNEL: 127.0.0.1
 [INFO] 02:50:45:879 consola/(5461:5461): PUERTO KERNEL: 4444
+[INFO] 18:23:16:829 consola/(5955:5955): IP KERNEL: 127.0.0.1
+[INFO] 18:23:16:836 consola/(5955:5955): PUERTO KERNEL: 4444
+[INFO] 18:27:07:864 consola/(6114:6114): IP KERNEL: 127.0.0.1
+[INFO] 18:27:07:871 consola/(6114:6114): PUERTO KERNEL: 4444
+[INFO] 18:33:06:094 consola/(6625:6625): IP KERNEL: 127.0.0.1
+[INFO] 18:33:06:095 consola/(6625:6625): PUERTO KERNEL: 4444
+[INFO] 18:33:56:973 consola/(6718:6718): IP KERNEL: 127.0.0.1
+[INFO] 18:33:56:974 consola/(6718:6718): PUERTO KERNEL: 4444
+[INFO] 18:42:04:312 consola/(6844:6844): IP KERNEL: 127.0.0.1
+[INFO] 18:42:04:314 consola/(6844:6844): PUERTO KERNEL: 4444
+[INFO] 18:42:29:096 consola/(6914:6914): IP KERNEL: (null)
+[INFO] 18:42:29:096 consola/(6914:6914): PUERTO KERNEL: (null)
+[INFO] 18:43:29:941 consola/(6987:6987): IP KERNEL: 127.0.0.1
+[INFO] 18:43:29:942 consola/(6987:6987): PUERTO KERNEL: 4444
+[INFO] 18:43:53:989 consola/(7003:7003): IP KERNEL: 127.0.0.1
+[INFO] 18:43:53:989 consola/(7003:7003): PUERTO KERNEL: 4444
+[INFO] 18:56:04:678 consola/(7733:7733): IP KERNEL: 127.0.0.1
+[INFO] 18:56:04:688 consola/(7733:7733): PUERTO KERNEL: 4444
+[INFO] 18:56:04:689 consola/(7733:7733): Consola listo para recibir a Kernel
+[INFO] 18:56:23:863 consola/(7755:7755): IP KERNEL: 127.0.0.1
+[INFO] 18:56:23:863 consola/(7755:7755): PUERTO KERNEL: 4444
+[INFO] 18:56:23:863 consola/(7755:7755): Consola listo para recibir a Kernel
+[INFO] 18:58:32:739 consola/(8012:8012): IP KERNEL: 127.0.0.1
+[INFO] 18:58:32:745 consola/(8012:8012): PUERTO KERNEL: 4444
+[INFO] 18:58:32:747 consola/(8012:8012): Consola listo para recibir a Kernel
+[INFO] 18:59:12:628 consola/(8037:8037): IP KERNEL: 127.0.0.1
+[INFO] 18:59:12:629 consola/(8037:8037): PUERTO KERNEL: 4444
+[INFO] 18:59:12:629 consola/(8037:8037): Consola listo para recibir a Kernel
+[INFO] 18:59:30:950 consola/(8058:8058): IP KERNEL: 127.0.0.1
+[INFO] 18:59:30:953 consola/(8058:8058): PUERTO KERNEL: 4444
+[INFO] 18:59:30:953 consola/(8058:8058): Consola listo para recibir a Kernel
+[INFO] 18:59:35:225 consola/(8069:8069): IP KERNEL: 127.0.0.1
+[INFO] 18:59:35:225 consola/(8069:8069): PUERTO KERNEL: 4444
+[INFO] 18:59:35:226 consola/(8069:8069): Consola listo para recibir a Kernel
+[INFO] 19:01:43:270 consola/(8174:8174): IP KERNEL: 127.0.0.1
+[INFO] 19:01:43:270 consola/(8174:8174): PUERTO KERNEL: 4444
+[INFO] 19:01:43:271 consola/(8174:8174): Se conecto un cliente!
+[ERROR] 19:01:43:271 consola/(8174:8174): el cliente se desconecto. Terminando servidor
+[INFO] 19:02:14:761 consola/(8185:8185): IP KERNEL: 127.0.0.1
+[INFO] 19:02:14:762 consola/(8185:8185): PUERTO KERNEL: 4444
+[INFO] 19:02:14:762 consola/(8185:8185): Se conecto un cliente!
+[ERROR] 19:02:14:763 consola/(8185:8185): el cliente se desconecto. Terminando servidor
+[INFO] 19:04:33:990 consola/(8300:8300): IP KERNEL: 127.0.0.1
+[INFO] 19:04:33:998 consola/(8300:8300): PUERTO KERNEL: 4444
+[INFO] 19:04:33:999 consola/(8300:8300): Se conecto un cliente!
+[INFO] 19:05:08:225 consola/(8360:8360): IP KERNEL: 127.0.0.1
+[INFO] 19:05:08:235 consola/(8360:8360): PUERTO KERNEL: 4444
+[INFO] 19:06:37:075 consola/(8462:8462): IP KERNEL: 127.0.0.1
+[INFO] 19:06:37:075 consola/(8462:8462): PUERTO KERNEL: 4444
+[INFO] 19:07:10:870 consola/(8513:8513): IP KERNEL: 127.0.0.1
+[INFO] 19:07:10:871 consola/(8513:8513): PUERTO KERNEL: 4444
+[INFO] 19:07:10:871 consola/(8513:8513): Se conecto un cliente!
+[INFO] 19:08:16:109 consola/(8564:8564): IP KERNEL: 127.0.0.1
+[INFO] 19:08:16:110 consola/(8564:8564): PUERTO KERNEL: 4444
+[INFO] 19:11:37:024 consola/(8810:8810): IP KERNEL: 127.0.0.1
+[INFO] 19:11:37:028 consola/(8810:8810): PUERTO KERNEL: 4444
+[INFO] 19:11:37:031 consola/(8810:8810): Consola listo para recibir a Kenel
+[INFO] 19:11:43:969 consola/(8821:8821): IP KERNEL: 127.0.0.1
+[INFO] 19:11:43:971 consola/(8821:8821): PUERTO KERNEL: 4444
+[INFO] 19:11:43:971 consola/(8821:8821): Consola listo para recibir a Kenel
+[INFO] 19:18:41:657 consola/(8955:8955): IP KERNEL: 127.0.0.1
+[INFO] 19:18:41:657 consola/(8955:8955): PUERTO KERNEL: 4444
+[INFO] 19:19:06:359 consola/(8978:8978): IP KERNEL: 127.0.0.1
+[INFO] 19:19:06:360 consola/(8978:8978): PUERTO KERNEL: 4444
+[INFO] 19:19:55:088 consola/(9053:9053): IP KERNEL: 127.0.0.1
+[INFO] 19:19:55:088 consola/(9053:9053): PUERTO KERNEL: 4444
+[INFO] 19:20:35:326 consola/(9110:9110): IP KERNEL: 127.0.0.1
+[INFO] 19:20:35:333 consola/(9110:9110): PUERTO KERNEL: 4444
+[INFO] 19:21:40:413 consola/(9180:9180): IP KERNEL: 127.0.0.1
+[INFO] 19:21:40:413 consola/(9180:9180): PUERTO KERNEL: 4444
+[INFO] 19:22:41:799 consola/(9312:9312): IP KERNEL: 127.0.0.1
+[INFO] 19:22:41:803 consola/(9312:9312): PUERTO KERNEL: 4444
+[INFO] 19:22:45:275 consola/(9312:9312): Me llego el mensaje 
+[INFO] 19:23:29:102 consola/(9441:9441): IP KERNEL: 127.0.0.1
+[INFO] 19:23:29:102 consola/(9441:9441): PUERTO KERNEL: 4444
+[INFO] 19:23:29:102 consola/(9441:9441): Se conecto un cliente!
+[INFO] 19:23:29:102 consola/(9441:9441): Me llego el mensaje _Ö"UV
+[INFO] 19:26:52:178 consola/(9659:9659): IP KERNEL: 127.0.0.1
+[INFO] 19:26:52:179 consola/(9659:9659): PUERTO KERNEL: 4444
+[INFO] 19:27:18:261 consola/(9717:9717): IP KERNEL: 127.0.0.1
+[INFO] 19:27:18:261 consola/(9717:9717): PUERTO KERNEL: 4444
+[INFO] 19:27:18:261 consola/(9717:9717): Me llego el mensaje »!´—ªU
+[INFO] 19:28:17:126 consola/(9781:9781): IP KERNEL: 127.0.0.1
+[INFO] 19:28:17:127 consola/(9781:9781): PUERTO KERNEL: 4444
+[INFO] 19:28:17:127 consola/(9781:9781): Me llego el mensaje Ä∏ÍU
+[INFO] 19:28:54:678 consola/(9803:9803): IP KERNEL: 127.0.0.1
+[INFO] 19:28:54:679 consola/(9803:9803): PUERTO KERNEL: 4444
+[INFO] 19:28:54:679 consola/(9803:9803): Me llego el mensaje .—ˇCV
+[INFO] 19:29:04:154 consola/(9813:9813): IP KERNEL: 127.0.0.1
+[INFO] 19:29:04:163 consola/(9813:9813): PUERTO KERNEL: 4444
+[INFO] 19:29:04:168 consola/(9813:9813): Me llego el mensaje 
+[INFO] 19:32:13:054 consola/(10197:10197): IP KERNEL: 127.0.0.1
+[INFO] 19:32:13:056 consola/(10197:10197): PUERTO KERNEL: 4444
+[INFO] 19:32:13:058 consola/(10197:10197): Me llego el mensaje è}°ùU
+[INFO] 19:32:13:058 consola/(10197:10197): Me devolviste esto:
+
+[INFO] 19:36:05:740 consola/(10346:10346): IP KERNEL: 127.0.0.1
+[INFO] 19:36:05:741 consola/(10346:10346): PUERTO KERNEL: 4444
+[INFO] 19:36:18:744 consola/(10346:10346): Me llego el mensaje 
+[INFO] 19:55:07:028 consola/(1983:1983): IP KERNEL: 127.0.0.1
+[INFO] 19:55:07:031 consola/(1983:1983): PUERTO KERNEL: 4444
+[INFO] 19:55:07:031 consola/(1983:1983): Se conecto un cliente!
+[INFO] 19:55:47:754 consola/(2083:2083): IP KERNEL: 127.0.0.1
+[INFO] 19:55:47:755 consola/(2083:2083): PUERTO KERNEL: 4444
+[INFO] 19:55:47:755 consola/(2083:2083): Me llego el mensaje 
+[INFO] 19:57:05:408 consola/(2181:2181): IP KERNEL: 127.0.0.1
+[INFO] 19:57:05:412 consola/(2181:2181): PUERTO KERNEL: 4444
+[INFO] 19:57:05:413 consola/(2181:2181): Se conecto un cliente!
+[ERROR] 19:57:05:413 consola/(2181:2181): el cliente se desconecto. Terminando servidor
+[INFO] 19:57:37:830 consola/(2256:2256): IP KERNEL: 127.0.0.1
+[INFO] 19:57:37:830 consola/(2256:2256): PUERTO KERNEL: 4444
+[INFO] 19:57:37:830 consola/(2256:2256): Kernel listo para recibir a Consola
+[INFO] 19:57:37:830 consola/(2256:2256): Se conecto un cliente!
+[ERROR] 19:57:37:830 consola/(2256:2256): el cliente se desconecto. Terminando servidor
+[INFO] 19:57:51:250 consola/(2303:2303): IP KERNEL: 127.0.0.1
+[INFO] 19:57:51:251 consola/(2303:2303): PUERTO KERNEL: 4444
+[INFO] 19:57:51:251 consola/(2303:2303): Kernel listo para recibir a Consola
+[INFO] 19:58:42:269 consola/(2369:2369): IP KERNEL: 127.0.0.1
+[INFO] 19:58:42:269 consola/(2369:2369): PUERTO KERNEL: 4444
+[INFO] 19:58:42:269 consola/(2369:2369): Consola listo para recibir a Kernel
+[INFO] 19:59:40:167 consola/(2482:2482): IP KERNEL: 127.0.0.1
+[INFO] 19:59:40:173 consola/(2482:2482): PUERTO KERNEL: 4444
+[INFO] 19:59:40:173 consola/(2482:2482): Consola listo para recibir a Kernel
+[INFO] 19:59:58:468 consola/(2504:2504): IP KERNEL: 127.0.0.1
+[INFO] 19:59:58:475 consola/(2504:2504): PUERTO KERNEL: 4444
+[INFO] 19:59:58:475 consola/(2504:2504): Consola listo para recibir a Kernel
+[INFO] 20:00:55:251 consola/(2527:2527): IP KERNEL: 127.0.0.1
+[INFO] 20:00:55:257 consola/(2527:2527): PUERTO KERNEL: 4444
+[INFO] 20:00:55:257 consola/(2527:2527): Consola listo para recibir a Kernel
+[INFO] 20:11:42:103 consola/(2698:2698): IP KERNEL: 127.0.0.1
+[INFO] 20:11:42:104 consola/(2698:2698): PUERTO KERNEL: 4444
+[INFO] 20:12:31:959 consola/(2750:2750): IP KERNEL: 127.0.0.1
+[INFO] 20:12:31:960 consola/(2750:2750): PUERTO KERNEL: 4444

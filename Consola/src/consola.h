@@ -8,13 +8,12 @@
 #include<commons/config.h>
 
 #include "utils.h"
-//#include "/home/utnso/TP-SO/Utils/src/utilsServidor.h"
-//#include "/home/utnso/TP-SO/Utils/src/utilsCliente.h"
 
 t_config* config;
 t_log* logger;
 int conexion;
 
 void terminar_programa(t_log*, t_config*,int);
+void iterator(char* value);
 
 #endif /* CONSOLA_H_ */

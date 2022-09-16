@@ -4,7 +4,7 @@ int main(void) {
 	logger = log_create("log.log", "Kernel", 1, LOG_LEVEL_DEBUG);
 
 	int server_fd = iniciar_servidor();
-	log_info(logger, "Kernel listo para recibir al cliente");
+	log_info(logger, "Kernel listo para recibir a Consola");
 	int cliente_fd = esperar_cliente(server_fd);
 
 	t_list* lista;
@@ -27,7 +27,10 @@ int main(void) {
 			break;
 		}
 	}
-	return EXIT_SUCCESS;
+
+	conexion = crear_conexion(IP,PUERTO);
+	enviar_mensaje("Estamos devuelta \n",cliente_fd);
+
 }
 
 void iterator(char* value) {

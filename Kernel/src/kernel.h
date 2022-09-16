@@ -7,9 +7,10 @@
 #include<commons/string.h>
 #include<commons/config.h>
 
-#include "/home/utnso/TP-SO/Utils/src/utilsServidor.h"
-#include "/home/utnso/TP-SO/Utils/src/utilsCliente.h"
+#include "utils.h"
 
+
+int conexion;
 
 void iterator(char* value);
 #endif /* CONSOLA_H_ */

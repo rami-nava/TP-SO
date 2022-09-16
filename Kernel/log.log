@@ -24,3 +24,118 @@
 [INFO] 17:40:51:881 Kernel/(1889:1889): Me llego el mensaje Estamos conectados 
 
 [ERROR] 17:40:51:881 Kernel/(1889:1889): el cliente se desconecto. Terminando servidor
+[INFO] 18:32:51:166 Kernel/(6583:6583): Kernel listo para recibir al cliente
+[INFO] 18:32:59:576 Kernel/(6598:6598): Kernel listo para recibir al cliente
+[INFO] 18:33:22:121 Kernel/(6636:6636): Kernel listo para recibir al cliente
+[INFO] 18:33:49:543 Kernel/(6689:6689): Kernel listo para recibir al cliente
+[INFO] 18:33:56:974 Kernel/(6689:6689): Se conecto un cliente!
+[INFO] 18:33:56:974 Kernel/(6689:6689): Me llego el mensaje Estamos conectados 
+
+[ERROR] 18:33:56:974 Kernel/(6689:6689): el cliente se desconecto. Terminando servidor
+[INFO] 18:54:33:744 Kernel/(7578:7578): Kernel listo para recibir a Consola
+[INFO] 18:55:54:567 Kernel/(7705:7705): Kernel listo para recibir a Consola
+[INFO] 18:56:04:688 Kernel/(7705:7705): Se conecto un cliente!
+[INFO] 18:56:04:689 Kernel/(7705:7705): Me llego el mensaje Estamos conectados 
+
+[INFO] 18:56:17:533 Kernel/(7744:7744): Kernel listo para recibir a Consola
+[INFO] 18:56:37:643 Kernel/(7766:7766): Kernel listo para recibir a Consola
+[INFO] 18:58:28:168 Kernel/(7985:7985): Kernel listo para recibir a Consola
+[INFO] 18:58:32:745 Kernel/(7985:7985): Se conecto un cliente!
+[INFO] 18:58:32:745 Kernel/(7985:7985): Me llego el mensaje Estamos conectados 
+
+[ERROR] 18:58:32:745 Kernel/(7985:7985): el cliente se desconecto. Terminando servidor
+[INFO] 18:59:05:932 Kernel/(8026:8026): Kernel listo para recibir a Consola
+[INFO] 18:59:25:011 Kernel/(8048:8048): Kernel listo para recibir a Consola
+[INFO] 19:01:37:921 Kernel/(8145:8145): Kernel listo para recibir a Consola
+[INFO] 19:01:43:270 Kernel/(8145:8145): Se conecto un cliente!
+[INFO] 19:01:43:271 Kernel/(8145:8145): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:01:43:271 Kernel/(8145:8145): el cliente se desconecto. Terminando servidor
+[INFO] 19:04:27:572 Kernel/(8272:8272): Kernel listo para recibir a Consola
+[INFO] 19:04:33:999 Kernel/(8272:8272): Se conecto un cliente!
+[INFO] 19:04:33:999 Kernel/(8272:8272): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:04:34:000 Kernel/(8272:8272): el cliente se desconecto. Terminando servidor
+[INFO] 19:05:02:366 Kernel/(8333:8333): Kernel listo para recibir a Consola
+[INFO] 19:05:08:235 Kernel/(8333:8333): Se conecto un cliente!
+[INFO] 19:05:08:235 Kernel/(8333:8333): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:05:08:235 Kernel/(8333:8333): el cliente se desconecto. Terminando servidor
+[INFO] 19:06:31:141 Kernel/(8450:8450): Kernel listo para recibir a Consola
+[INFO] 19:06:37:075 Kernel/(8450:8450): Se conecto un cliente!
+[INFO] 19:06:37:075 Kernel/(8450:8450): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:06:37:075 Kernel/(8450:8450): el cliente se desconecto. Terminando servidor
+[INFO] 19:11:30:291 Kernel/(8783:8783): Kernel listo para recibir a Consola
+[INFO] 19:11:37:028 Kernel/(8783:8783): Se conecto un cliente!
+[INFO] 19:11:37:028 Kernel/(8783:8783): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:11:37:028 Kernel/(8783:8783): el cliente se desconecto. Terminando servidor
+[INFO] 19:11:52:583 Kernel/(8831:8831): Kernel listo para recibir a Consola
+[INFO] 19:18:35:301 Kernel/(8927:8927): Kernel listo para recibir a Consola
+[INFO] 19:19:00:629 Kernel/(8968:8968): Kernel listo para recibir a Consola
+[INFO] 19:19:06:360 Kernel/(8968:8968): Se conecto un cliente!
+[INFO] 19:19:06:360 Kernel/(8968:8968): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:19:06:360 Kernel/(8968:8968): el cliente se desconecto. Terminando servidor
+[INFO] 19:19:51:109 Kernel/(9043:9043): Kernel listo para recibir a Consola
+[INFO] 19:19:55:088 Kernel/(9043:9043): Se conecto un cliente!
+[INFO] 19:19:55:089 Kernel/(9043:9043): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:19:55:089 Kernel/(9043:9043): el cliente se desconecto. Terminando servidor
+[INFO] 19:20:29:504 Kernel/(9100:9100): Kernel listo para recibir a Consola
+[INFO] 19:20:35:333 Kernel/(9100:9100): Se conecto un cliente!
+[INFO] 19:20:35:335 Kernel/(9100:9100): Me llego el mensaje Estamos conectados 
+
+[INFO] 19:21:35:251 Kernel/(9170:9170): Kernel listo para recibir a Consola
+[INFO] 19:21:40:413 Kernel/(9170:9170): Se conecto un cliente!
+[INFO] 19:21:40:415 Kernel/(9170:9170): Me llego el mensaje Estamos conectados 
+
+[INFO] 19:22:36:176 Kernel/(9286:9286): Kernel listo para recibir a Consola
+[INFO] 19:22:41:806 Kernel/(9286:9286): Se conecto un cliente!
+[INFO] 19:22:41:806 Kernel/(9286:9286): Me llego el mensaje Estamos conectados 
+
+[INFO] 19:23:24:353 Kernel/(9415:9415): Kernel listo para recibir a Consola
+[INFO] 19:26:45:050 Kernel/(9632:9632): Kernel listo para recibir a Consola
+[INFO] 19:26:52:179 Kernel/(9632:9632): Se conecto un cliente!
+[INFO] 19:26:52:180 Kernel/(9632:9632): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:26:52:180 Kernel/(9632:9632): el cliente se desconecto. Terminando servidor
+[INFO] 19:27:12:458 Kernel/(9691:9691): Kernel listo para recibir a Consola
+[INFO] 19:27:18:261 Kernel/(9691:9691): Se conecto un cliente!
+[INFO] 19:27:18:261 Kernel/(9691:9691): Me llego el mensaje Estamos conectados 
+
+[ERROR] 19:27:18:261 Kernel/(9691:9691): el cliente se desconecto. Terminando servidor
+[INFO] 19:28:11:529 Kernel/(9771:9771): Kernel listo para recibir a Consola
+[INFO] 19:28:17:127 Kernel/(9771:9771): Se conecto un cliente!
+[INFO] 19:28:17:127 Kernel/(9771:9771): Me llego el mensaje Estamos conectados 
+
+[INFO] 19:28:51:005 Kernel/(9793:9793): Kernel listo para recibir a Consola
+[INFO] 19:28:54:679 Kernel/(9793:9793): Se conecto un cliente!
+[INFO] 19:28:54:679 Kernel/(9793:9793): Me llego el mensaje Estamos conectados 
+
+[INFO] 19:29:04:163 Kernel/(9793:9793): Se conecto un cliente!
+[ERROR] 19:29:04:163 Kernel/(9793:9793): el cliente se desconecto. Terminando servidor
+[INFO] 19:30:49:432 Kernel/(9934:9934): Kernel listo para recibir a Consola
+[INFO] 19:32:05:065 Kernel/(10169:10169): Kernel listo para recibir a Consola
+[INFO] 19:32:13:057 Kernel/(10169:10169): Se conecto un cliente!
+[INFO] 19:32:13:058 Kernel/(10169:10169): Me llego el mensaje Estamos conectados 
+
+[INFO] 19:36:00:137 Kernel/(10315:10315): Kernel listo para recibir a Consola
+[INFO] 19:36:05:741 Kernel/(10315:10315): Se conecto un cliente!
+[INFO] 19:36:05:741 Kernel/(10315:10315): Me llego el mensaje Estamos conectados 
+
+[INFO] 19:58:36:669 Kernel/(2342:2342): Kernel listo para recibir a Consola
+[INFO] 19:58:42:269 Kernel/(2342:2342): Se conecto un cliente!
+[INFO] 19:58:42:269 Kernel/(2342:2342): Me llego el mensaje Estamos conectados 
+
+[INFO] 19:59:19:465 Kernel/(2399:2399): Kernel listo para recibir a Consola
+[INFO] 19:59:36:960 Kernel/(2455:2455): Kernel listo para recibir a Consola
+[INFO] 19:59:49:436 Kernel/(2493:2493): Kernel listo para recibir a Consola
+[INFO] 20:01:00:193 Kernel/(2554:2554): Kernel listo para recibir a Consola
+[INFO] 20:11:37:707 Kernel/(2668:2668): Kernel listo para recibir a Consola
+[INFO] 20:12:24:505 Kernel/(2723:2723): Kernel listo para recibir a Consola
+[INFO] 20:12:31:960 Kernel/(2723:2723): Se conecto un cliente!
+[INFO] 20:12:31:961 Kernel/(2723:2723): Me llego el mensaje Estamos conectados 
+
+[ERROR] 20:12:31:961 Kernel/(2723:2723): el cliente se desconecto. Terminando servidor

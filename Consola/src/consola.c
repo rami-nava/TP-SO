@@ -1,5 +1,6 @@
 #include "consola.h"
 
+
 int main(int argc, char** argv){
 	if (argc < 2){
 		return EXIT_FAILURE;
@@ -12,19 +13,17 @@ int main(int argc, char** argv){
     //Tuve que cambiar el ip y el puerto que teniamos porque no dejaba conectar al servidor
 
     //Archivo log
-    logger = log_create("/home/utnso/TP operativos/Consola/cfg/consola.log", "consola", true, LOG_LEVEL_INFO);
+    logger = log_create("/home/utnso/TP-SO/Consola/cfg/consola.log", "consola", true, LOG_LEVEL_INFO);
     log_info(logger, "IP KERNEL: %s", ip_kernel);
     log_info(logger, "PUERTO KERNEL: %s", puerto_kernel);
 
     //Conexion
     conexion = crear_conexion(ip_kernel, puerto_kernel);
     enviar_mensaje("Estamos conectados \n",conexion);
-    terminar_programa(logger, config,conexion);
 
-
+    terminar_programa(logger,config,conexion);
 }
 
-// void terminar_programa(int conexion, t_log* logger, t_config* config)
 void terminar_programa(t_log* logger, t_config* config,int conexion)
 {
 	if(logger != NULL)
@@ -32,4 +31,8 @@ void terminar_programa(t_log* logger, t_config* config,int conexion)
 	if(config != NULL)
 		config_destroy(config);
 	liberar_conexion(conexion);
+}
+
+void iterator(char* value) {
+	log_info(logger,"%s", value);
 }
