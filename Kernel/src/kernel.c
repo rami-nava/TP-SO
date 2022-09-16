@@ -13,6 +13,7 @@ int main(void) {
 		switch (cod_op) {
 		case MENSAJE:
 			recibir_mensaje(cliente_fd);
+			enviar_mensaje("Confirmaciond de recepcion de instrucciones",cliente_fd);
 			break;
 		case PAQUETE:
 			lista = recibir_paquete(cliente_fd);

@@ -19,9 +19,28 @@ int main(int argc, char** argv){
 
     //Conexion
     conexion = crear_conexion(ip_kernel, puerto_kernel);
-    enviar_mensaje("Estamos conectados \n",conexion);
+    enviar_mensaje("informacion correspondiente al listado de instrucciones \n",conexion);
+
+    int cod_op = recibir_operacion(conexion);
+
+	t_list* lista;
+    switch (cod_op){
+    case MENSAJE:
+    	recibir_mensaje(conexion); //aca recibiria la instruccion del kernel
+    	break;
+    case PAQUETE:
+    	lista = recibir_paquete(conexion);
+    	log_info(logger, "Me llegaron los siguientes valores:\n");
+    	list_iterate(lista, (void*) iterator);
+    	break;
+    default:
+    	log_warning(logger,"Operacion desconocida. No quieras meter la pata");
+    	break;
+    		}
+    }
 
     terminar_programa(logger,config,conexion);
+
 }
 
 void terminar_programa(t_log* logger, t_config* config,int conexion)
