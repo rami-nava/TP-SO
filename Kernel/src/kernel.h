@@ -7,8 +7,8 @@
 #include<commons/string.h>
 #include<commons/config.h>
 
-#include "utils.h"
-
+//#include "utils.h"
+#include "/home/utnso/TP-SO/Utils/src/utils.h"
 
 int conexion;
 

@@ -215,3 +215,184 @@
 [INFO] 22:25:40:088 Kernel/(2909:2909): Me llego el mensaje Estamos conectados 
 
 [ERROR] 22:25:40:089 Kernel/(2909:2909): el cliente se desconecto. Terminando servidor
+[INFO] 16:53:38:564 Kernel/(2250:2250): Kernel listo para recibir a Consola
+[INFO] 16:55:55:776 Kernel/(2360:2360): Kernel listo para recibir a Consola
+[INFO] 16:56:02:076 Kernel/(2360:2360): Se conecto un cliente!
+[INFO] 16:56:02:076 Kernel/(2360:2360): Me llego el mensaje informacion correspondiente al listado de instrucciones 
+
+[ERROR] 16:56:02:077 Kernel/(2360:2360): el cliente se desconecto. Terminando servidor
+[INFO] 16:56:36:899 Kernel/(2405:2405): Kernel listo para recibir a Consola
+[INFO] 16:56:42:752 Kernel/(2405:2405): Se conecto un cliente!
+[INFO] 16:56:42:752 Kernel/(2405:2405): Me llego el mensaje informacion correspondiente al listado de instrucciones 
+
+[ERROR] 16:56:42:753 Kernel/(2405:2405): el cliente se desconecto. Terminando servidor
+[INFO] 19:21:24:624 Kernel/(5967:5967): Kernel listo para recibir a Consola
+[INFO] 19:21:29:323 Kernel/(5967:5967): Se conecto un cliente!
+[INFO] 19:21:29:323 Kernel/(5967:5967): Me llegaron los siguientes valores:
+
+[INFO] 19:21:29:323 Kernel/(5967:5967): S
+[INFO] 19:21:29:323 Kernel/(5967:5967): A
+[INFO] 19:21:29:323 Kernel/(5967:5967): M
+[INFO] 19:21:29:323 Kernel/(5967:5967): M
+[INFO] 19:21:29:323 Kernel/(5967:5967): I
+[INFO] 19:21:29:323 Kernel/(5967:5967): E
+[INFO] 19:23:47:838 Kernel/(6018:6018): Kernel listo para recibir a Consola
+[INFO] 19:24:08:863 Kernel/(6055:6055): Kernel listo para recibir a Consola
+[INFO] 19:24:34:882 Kernel/(6095:6095): Kernel listo para recibir a Consola
+[INFO] 19:24:51:565 Kernel/(6152:6152): Kernel listo para recibir a Consola
+[INFO] 19:24:56:033 Kernel/(6152:6152): Se conecto un cliente!
+[INFO] 19:24:56:033 Kernel/(6152:6152): Me llegaron los siguientes valores:
+
+[INFO] 19:24:56:033 Kernel/(6152:6152): S
+[INFO] 19:24:56:033 Kernel/(6152:6152): A
+[INFO] 19:24:56:033 Kernel/(6152:6152): M
+[INFO] 19:24:56:033 Kernel/(6152:6152): M
+[INFO] 19:24:56:033 Kernel/(6152:6152): I
+[INFO] 19:24:56:033 Kernel/(6152:6152): E
+[INFO] 19:25:33:079 Kernel/(6242:6242): Kernel listo para recibir a Consola
+[INFO] 19:28:34:620 Kernel/(6426:6426): Kernel listo para recibir a Consola
+[INFO] 19:28:39:758 Kernel/(6426:6426): Se conecto un cliente!
+[INFO] 19:28:39:758 Kernel/(6426:6426): Me llegaron los siguientes valores:
+
+[INFO] 19:28:39:758 Kernel/(6426:6426): S
+[INFO] 19:28:39:758 Kernel/(6426:6426): A
+[INFO] 19:28:39:758 Kernel/(6426:6426): M
+[INFO] 19:28:39:758 Kernel/(6426:6426): M
+[INFO] 19:28:39:758 Kernel/(6426:6426): I
+[INFO] 19:28:39:758 Kernel/(6426:6426): E
+[INFO] 19:29:28:671 Kernel/(6482:6482): Kernel listo para recibir a Consola
+[INFO] 19:29:44:346 Kernel/(6534:6534): Kernel listo para recibir a Consola
+[INFO] 19:35:17:319 Kernel/(6763:6763): Kernel listo para recibir a Consola
+[INFO] 19:35:23:207 Kernel/(6763:6763): Se conecto un cliente!
+[INFO] 19:35:23:209 Kernel/(6763:6763): Me llegaron los siguientes valores:
+
+[INFO] 19:35:23:209 Kernel/(6763:6763): S
+[INFO] 19:35:23:209 Kernel/(6763:6763): A
+[INFO] 19:35:23:209 Kernel/(6763:6763): M
+[INFO] 19:35:23:209 Kernel/(6763:6763): M
+[INFO] 19:35:23:209 Kernel/(6763:6763): I
+[INFO] 19:35:23:209 Kernel/(6763:6763): E
+[INFO] 19:35:55:927 Kernel/(6820:6820): Kernel listo para recibir a Consola
+[INFO] 19:36:44:082 Kernel/(6874:6874): Kernel listo para recibir a Consola
+[INFO] 19:38:40:678 Kernel/(7016:7016): Kernel listo para recibir a Consola
+[INFO] 19:38:44:534 Kernel/(7026:7026): Kernel listo para recibir a Consola
+[INFO] 19:38:46:079 Kernel/(7036:7036): Kernel listo para recibir a Consola
+[INFO] 19:38:47:909 Kernel/(7026:7026): Se conecto un cliente!
+[INFO] 19:38:47:909 Kernel/(7026:7026): Me llegaron los siguientes valores:
+
+[INFO] 19:38:47:909 Kernel/(7026:7026): S
+[INFO] 19:38:47:909 Kernel/(7026:7026): A
+[INFO] 19:38:47:909 Kernel/(7026:7026): M
+[INFO] 19:38:47:909 Kernel/(7026:7026): M
+[INFO] 19:38:47:909 Kernel/(7026:7026): I
+[INFO] 19:38:47:909 Kernel/(7026:7026): E
+[INFO] 19:40:27:804 Kernel/(7078:7078): Kernel listo para recibir a Consola
+[INFO] 19:41:32:656 Kernel/(7166:7166): Kernel listo para recibir a Consola
+[INFO] 19:41:37:311 Kernel/(7166:7166): Se conecto un cliente!
+[INFO] 19:41:37:312 Kernel/(7166:7166): Me llegaron los siguientes valores:
+
+[INFO] 19:41:37:312 Kernel/(7166:7166): S
+[INFO] 19:41:37:312 Kernel/(7166:7166): A
+[INFO] 19:41:37:312 Kernel/(7166:7166): M
+[INFO] 19:41:37:312 Kernel/(7166:7166): M
+[INFO] 19:41:37:312 Kernel/(7166:7166): I
+[INFO] 19:41:37:312 Kernel/(7166:7166): E
+[INFO] 19:41:50:528 Kernel/(7218:7218): Kernel listo para recibir a Consola
+[INFO] 19:47:14:372 Kernel/(7328:7328): Kernel listo para recibir a Consola
+[INFO] 19:47:22:409 Kernel/(7328:7328): Se conecto un cliente!
+[INFO] 19:47:22:412 Kernel/(7328:7328): Me llegaron los siguientes valores:
+
+[INFO] 19:47:22:412 Kernel/(7328:7328): S
+[INFO] 19:47:22:412 Kernel/(7328:7328): A
+[INFO] 19:47:22:412 Kernel/(7328:7328): M
+[INFO] 19:47:22:412 Kernel/(7328:7328): M
+[INFO] 19:47:22:412 Kernel/(7328:7328): I
+[INFO] 19:47:22:412 Kernel/(7328:7328): E
+[INFO] 19:47:38:760 Kernel/(7357:7357): Kernel listo para recibir a Consola
+[INFO] 19:48:21:958 Kernel/(7412:7412): Kernel listo para recibir a Consola
+[INFO] 19:48:49:958 Kernel/(7466:7466): Kernel listo para recibir a Consola
+[INFO] 19:48:57:173 Kernel/(7466:7466): Se conecto un cliente!
+[ERROR] 19:48:57:568 Kernel/(7466:7466): el cliente se desconecto. Terminando servidor
+[INFO] 19:49:22:847 Kernel/(7559:7559): Kernel listo para recibir a Consola
+[INFO] 19:49:27:660 Kernel/(7559:7559): Se conecto un cliente!
+[INFO] 19:49:27:660 Kernel/(7559:7559): Me llegaron los siguientes valores:
+
+[INFO] 19:49:27:660 Kernel/(7559:7559): S
+[INFO] 19:49:27:660 Kernel/(7559:7559): S
+[INFO] 19:49:27:660 Kernel/(7559:7559): S
+[INFO] 19:49:27:660 Kernel/(7559:7559): S
+[INFO] 19:49:27:660 Kernel/(7559:7559): S
+[INFO] 19:49:27:660 Kernel/(7559:7559): S
+[INFO] 19:49:27:660 Kernel/(7559:7559): S
+[INFO] 19:49:27:660 Kernel/(7559:7559): S
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): A
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): M
+[INFO] 19:49:27:660 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): I
+[INFO] 19:49:27:661 Kernel/(7559:7559): E
+[INFO] 19:49:27:661 Kernel/(7559:7559): E
+[INFO] 19:49:27:661 Kernel/(7559:7559): E
+[INFO] 19:49:27:661 Kernel/(7559:7559): E
+[INFO] 19:49:52:087 Kernel/(7656:7656): Kernel listo para recibir a Consola
+[INFO] 19:53:38:652 Kernel/(7840:7840): Kernel listo para recibir a Consola
+[INFO] 19:53:46:894 Kernel/(7840:7840): Se conecto un cliente!
+[ERROR] 19:53:47:316 Kernel/(7840:7840): el cliente se desconecto. Terminando servidor
+[INFO] 19:54:16:155 Kernel/(7896:7896): Kernel listo para recibir a Consola
+[INFO] 19:54:21:013 Kernel/(7896:7896): Se conecto un cliente!
+[ERROR] 19:54:21:220 Kernel/(7896:7896): el cliente se desconecto. Terminando servidor
+[INFO] 19:54:31:975 Kernel/(7949:7949): Kernel listo para recibir a Consola
+[INFO] 19:54:37:068 Kernel/(7949:7949): Se conecto un cliente!
+[ERROR] 19:54:37:300 Kernel/(7949:7949): el cliente se desconecto. Terminando servidor
+[INFO] 19:54:58:610 Kernel/(8018:8018): Kernel listo para recibir a Consola
+[INFO] 19:55:03:303 Kernel/(8018:8018): Se conecto un cliente!
+[ERROR] 19:55:03:712 Kernel/(8018:8018): el cliente se desconecto. Terminando servidor
+[INFO] 20:05:10:743 Kernel/(9516:9516): Kernel listo para recibir a Consola
+[INFO] 20:05:15:063 Kernel/(9516:9516): Se conecto un cliente!
+[INFO] 20:05:15:063 Kernel/(9516:9516): Me llegaron los siguientes valores:
+
+[INFO] 20:05:15:063 Kernel/(9516:9516): SET AX 1
+[INFO] 20:05:15:063 Kernel/(9516:9516): ADD AX BX
+[INFO] 20:05:15:063 Kernel/(9516:9516): MOV_IN CX 4
+[INFO] 20:05:15:063 Kernel/(9516:9516): MOV_OUT 8 DX
+[INFO] 20:05:15:063 Kernel/(9516:9516): I/O DISCO 10
+[INFO] 20:05:15:063 Kernel/(9516:9516): EXITDISCO 10

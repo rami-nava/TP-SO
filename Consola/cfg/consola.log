@@ -262,3 +262,256 @@
 [INFO] 22:25:40:088 consola/(2936:2936): IP KERNEL: 127.0.0.1
 [INFO] 22:25:40:088 consola/(2936:2936): PUERTO KERNEL: 4444
 [INFO] 22:25:40:089 consola/(2936:2936): Me llego el mensaje imprimir por pantalla
+[INFO] 16:55:40:682 consola/(2350:2350): IP KERNEL: 127.0.0.1
+[INFO] 16:55:40:688 consola/(2350:2350): PUERTO KERNEL: 4444
+[WARNING] 16:55:40:688 consola/(2350:2350): Operacion desconocida. No quieras meter la pata
+[INFO] 16:56:02:075 consola/(2370:2370): IP KERNEL: 127.0.0.1
+[INFO] 16:56:02:076 consola/(2370:2370): PUERTO KERNEL: 4444
+[INFO] 16:56:02:076 consola/(2370:2370): Me llego el mensaje Confirmaciond de recepcion de instrucciones
+[INFO] 16:56:42:751 consola/(2415:2415): IP KERNEL: 127.0.0.1
+[INFO] 16:56:42:752 consola/(2415:2415): PUERTO KERNEL: 4444
+[INFO] 16:56:42:753 consola/(2415:2415): Me llego el mensaje Confirmaciond de recepcion de instrucciones
+[INFO] 18:36:12:661 consola/(1991:1991): IP KERNEL: 127.0.0.1
+[INFO] 18:36:12:664 consola/(1991:1991): PUERTO KERNEL: 4444
+[INFO] 18:36:28:260 consola/(2029:2029): IP KERNEL: 127.0.0.1
+[INFO] 18:36:28:262 consola/(2029:2029): PUERTO KERNEL: 4444
+[INFO] 18:36:41:381 consola/(2068:2068): IP KERNEL: 127.0.0.1
+[INFO] 18:36:41:382 consola/(2068:2068): PUERTO KERNEL: 4444
+[INFO] 18:36:59:693 consola/(2119:2119): IP KERNEL: 127.0.0.1
+[INFO] 18:36:59:700 consola/(2119:2119): PUERTO KERNEL: 4444
+[WARNING] 18:36:59:700 consola/(2119:2119): Operacion desconocida. No quieras meter la pata
+[INFO] 18:40:39:164 consola/(2358:2358): IP KERNEL: 127.0.0.1
+[INFO] 18:40:39:165 consola/(2358:2358): PUERTO KERNEL: 4444
+[INFO] 18:42:11:680 consola/(2653:2653): IP KERNEL: 127.0.0.1
+[INFO] 18:42:11:681 consola/(2653:2653): PUERTO KERNEL: 4444
+[WARNING] 18:42:11:681 consola/(2653:2653): Operacion desconocida. No quieras meter la pata
+[INFO] 18:49:52:238 consola/(3370:3370): IP KERNEL: 127.0.0.1
+[INFO] 18:49:52:239 consola/(3370:3370): PUERTO KERNEL: 4444
+[WARNING] 18:49:52:239 consola/(3370:3370): Operacion desconocida. No quieras meter la pata
+[INFO] 18:50:39:166 consola/(3420:3420): IP KERNEL: 127.0.0.1
+[INFO] 18:50:39:167 consola/(3420:3420): PUERTO KERNEL: 4444
+[WARNING] 18:50:39:167 consola/(3420:3420): Operacion desconocida. No quieras meter la pata
+[INFO] 18:54:30:917 consola/(3610:3610): IP KERNEL: 127.0.0.1
+[INFO] 18:54:30:918 consola/(3610:3610): PUERTO KERNEL: 4444
+[INFO] 18:55:34:030 consola/(3660:3660): IP KERNEL: 127.0.0.1
+[INFO] 18:55:34:031 consola/(3660:3660): PUERTO KERNEL: 4444
+[INFO] 18:56:03:926 consola/(3824:3824): IP KERNEL: 127.0.0.1
+[INFO] 18:56:03:927 consola/(3824:3824): PUERTO KERNEL: 4444
+[INFO] 18:56:29:138 consola/(3883:3883): IP KERNEL: 127.0.0.1
+[INFO] 18:56:29:138 consola/(3883:3883): PUERTO KERNEL: 4444
+[INFO] 18:57:02:325 consola/(4014:4014): IP KERNEL: 127.0.0.1
+[INFO] 18:57:02:328 consola/(4014:4014): PUERTO KERNEL: 4444
+[WARNING] 18:57:02:328 consola/(4014:4014): Operacion desconocida. No quieras meter la pata
+[INFO] 18:57:28:064 consola/(4074:4074): IP KERNEL: 127.0.0.1
+[INFO] 18:57:28:064 consola/(4074:4074): PUERTO KERNEL: 4444
+[WARNING] 18:57:28:064 consola/(4074:4074): Operacion desconocida. No quieras meter la pata
+[INFO] 18:57:41:413 consola/(4108:4108): IP KERNEL: 127.0.0.1
+[INFO] 18:57:41:413 consola/(4108:4108): PUERTO KERNEL: 4444
+[WARNING] 18:57:41:420 consola/(4108:4108): Operacion desconocida. No quieras meter la pata
+[INFO] 18:58:08:988 consola/(4206:4206): IP KERNEL: 127.0.0.1
+[INFO] 18:58:08:989 consola/(4206:4206): PUERTO KERNEL: 4444
+[WARNING] 18:58:08:989 consola/(4206:4206): Operacion desconocida. No quieras meter la pata
+[INFO] 18:58:26:145 consola/(4258:4258): IP KERNEL: 127.0.0.1
+[INFO] 18:58:26:146 consola/(4258:4258): PUERTO KERNEL: 4444
+[WARNING] 18:58:26:147 consola/(4258:4258): Operacion desconocida. No quieras meter la pata
+[INFO] 18:59:07:551 consola/(4348:4348): IP KERNEL: 127.0.0.1
+[INFO] 18:59:07:551 consola/(4348:4348): PUERTO KERNEL: 4444
+[WARNING] 18:59:07:554 consola/(4348:4348): Operacion desconocida. No quieras meter la pata
+[INFO] 19:00:21:042 consola/(4427:4427): IP KERNEL: 127.0.0.1
+[INFO] 19:00:21:042 consola/(4427:4427): PUERTO KERNEL: 4444
+[WARNING] 19:00:21:043 consola/(4427:4427): Operacion desconocida. No quieras meter la pata
+[INFO] 19:01:16:494 consola/(4503:4503): IP KERNEL: 127.0.0.1
+[INFO] 19:01:16:494 consola/(4503:4503): PUERTO KERNEL: 4444
+[WARNING] 19:01:16:494 consola/(4503:4503): Operacion desconocida. No quieras meter la pata
+[INFO] 19:01:26:514 consola/(4537:4537): IP KERNEL: 127.0.0.1
+[INFO] 19:01:26:515 consola/(4537:4537): PUERTO KERNEL: 4444
+[WARNING] 19:01:26:515 consola/(4537:4537): Operacion desconocida. No quieras meter la pata
+[INFO] 19:01:50:248 consola/(4638:4638): IP KERNEL: 127.0.0.1
+[INFO] 19:01:50:248 consola/(4638:4638): PUERTO KERNEL: 4444
+[WARNING] 19:01:50:248 consola/(4638:4638): Operacion desconocida. No quieras meter la pata
+[INFO] 19:02:08:347 consola/(4680:4680): IP KERNEL: 127.0.0.1
+[INFO] 19:02:08:347 consola/(4680:4680): PUERTO KERNEL: 4444
+[WARNING] 19:02:08:348 consola/(4680:4680): Operacion desconocida. No quieras meter la pata
+[INFO] 19:02:19:271 consola/(4713:4713): IP KERNEL: 127.0.0.1
+[INFO] 19:02:19:275 consola/(4713:4713): PUERTO KERNEL: 4444
+[WARNING] 19:02:19:276 consola/(4713:4713): Operacion desconocida. No quieras meter la pata
+[INFO] 19:04:19:712 consola/(4877:4877): IP KERNEL: 127.0.0.1
+[INFO] 19:04:19:712 consola/(4877:4877): PUERTO KERNEL: 4444
+[WARNING] 19:04:19:712 consola/(4877:4877): Operacion desconocida. No quieras meter la pata
+[INFO] 19:04:39:379 consola/(4930:4930): IP KERNEL: 127.0.0.1
+[INFO] 19:04:39:379 consola/(4930:4930): PUERTO KERNEL: 4444
+[WARNING] 19:04:39:379 consola/(4930:4930): Operacion desconocida. No quieras meter la pata
+[INFO] 19:05:07:854 consola/(4994:4994): IP KERNEL: 127.0.0.1
+[INFO] 19:05:07:854 consola/(4994:4994): PUERTO KERNEL: 4444
+[WARNING] 19:05:07:855 consola/(4994:4994): Operacion desconocida. No quieras meter la pata
+[INFO] 19:05:18:092 consola/(5041:5041): IP KERNEL: 127.0.0.1
+[INFO] 19:05:18:092 consola/(5041:5041): PUERTO KERNEL: 4444
+[WARNING] 19:05:18:093 consola/(5041:5041): Operacion desconocida. No quieras meter la pata
+[INFO] 19:06:58:444 consola/(5172:5172): IP KERNEL: 127.0.0.1
+[INFO] 19:06:58:444 consola/(5172:5172): PUERTO KERNEL: 4444
+[INFO] 19:07:20:002 consola/(5250:5250): IP KERNEL: 127.0.0.1
+[INFO] 19:07:20:003 consola/(5250:5250): PUERTO KERNEL: 4444
+[WARNING] 19:07:20:003 consola/(5250:5250): Operacion desconocida. No quieras meter la pata
+[INFO] 19:10:54:405 consola/(5310:5310): IP KERNEL: 127.0.0.1
+[INFO] 19:10:54:406 consola/(5310:5310): PUERTO KERNEL: 4444
+[INFO] 19:11:37:506 consola/(5325:5325): IP KERNEL: 127.0.0.1
+[INFO] 19:11:37:512 consola/(5325:5325): PUERTO KERNEL: 4444
+[INFO] 19:11:51:355 consola/(5376:5376): IP KERNEL: 127.0.0.1
+[INFO] 19:11:51:355 consola/(5376:5376): PUERTO KERNEL: 4444
+[WARNING] 19:11:51:355 consola/(5376:5376): Operacion desconocida. No quieras meter la pata
+[INFO] 19:12:24:663 consola/(5424:5424): IP KERNEL: 127.0.0.1
+[INFO] 19:12:24:663 consola/(5424:5424): PUERTO KERNEL: 4444
+[WARNING] 19:12:24:664 consola/(5424:5424): Operacion desconocida. No quieras meter la pata
+[INFO] 19:13:16:801 consola/(5590:5590): IP KERNEL: 127.0.0.1
+[INFO] 19:13:16:808 consola/(5590:5590): PUERTO KERNEL: 4444
+[WARNING] 19:13:16:808 consola/(5590:5590): Operacion desconocida. No quieras meter la pata
+[INFO] 19:13:39:967 consola/(5608:5608): IP KERNEL: 127.0.0.1
+[INFO] 19:13:39:971 consola/(5608:5608): PUERTO KERNEL: 4444
+[WARNING] 19:13:39:972 consola/(5608:5608): Operacion desconocida. No quieras meter la pata
+[INFO] 19:21:29:322 consola/(5978:5978): IP KERNEL: 127.0.0.1
+[INFO] 19:21:29:323 consola/(5978:5978): PUERTO KERNEL: 4444
+[WARNING] 19:23:45:799 consola/(5978:5978): Operacion desconocida. No quieras meter la pata
+[INFO] 19:23:54:023 consola/(6044:6044): IP KERNEL: 127.0.0.1
+[INFO] 19:23:54:023 consola/(6044:6044): PUERTO KERNEL: 4444
+[WARNING] 19:23:54:023 consola/(6044:6044): Operacion desconocida. No quieras meter la pata
+[INFO] 19:24:13:461 consola/(6065:6065): IP KERNEL: 127.0.0.1
+[INFO] 19:24:13:461 consola/(6065:6065): PUERTO KERNEL: 4444
+[WARNING] 19:24:13:462 consola/(6065:6065): Operacion desconocida. No quieras meter la pata
+[INFO] 19:24:38:806 consola/(6121:6121): IP KERNEL: 127.0.0.1
+[INFO] 19:24:38:806 consola/(6121:6121): PUERTO KERNEL: 4444
+[WARNING] 19:24:38:807 consola/(6121:6121): Operacion desconocida. No quieras meter la pata
+[INFO] 19:24:56:033 consola/(6178:6178): IP KERNEL: 127.0.0.1
+[INFO] 19:24:56:033 consola/(6178:6178): PUERTO KERNEL: 4444
+[WARNING] 19:25:00:711 consola/(6178:6178): Operacion desconocida. No quieras meter la pata
+[INFO] 19:25:40:978 consola/(6270:6270): IP KERNEL: 127.0.0.1
+[INFO] 19:25:40:980 consola/(6270:6270): PUERTO KERNEL: 4444
+[INFO] 19:27:55:773 consola/(6412:6412): IP KERNEL: 127.0.0.1
+[INFO] 19:27:55:776 consola/(6412:6412): PUERTO KERNEL: 4444
+[WARNING] 19:27:55:779 consola/(6412:6412): Operacion desconocida. No quieras meter la pata
+[INFO] 19:28:39:757 consola/(6436:6436): IP KERNEL: 127.0.0.1
+[INFO] 19:28:39:758 consola/(6436:6436): PUERTO KERNEL: 4444
+[WARNING] 19:29:26:265 consola/(6436:6436): Operacion desconocida. No quieras meter la pata
+[INFO] 19:29:34:262 consola/(6508:6508): IP KERNEL: 127.0.0.1
+[INFO] 19:29:34:262 consola/(6508:6508): PUERTO KERNEL: 4444
+[WARNING] 19:29:34:262 consola/(6508:6508): Operacion desconocida. No quieras meter la pata
+[INFO] 19:29:49:154 consola/(6560:6560): IP KERNEL: 127.0.0.1
+[INFO] 19:29:49:155 consola/(6560:6560): PUERTO KERNEL: 4444
+[WARNING] 19:29:49:155 consola/(6560:6560): Operacion desconocida. No quieras meter la pata
+[INFO] 19:35:23:204 consola/(6792:6792): IP KERNEL: 127.0.0.1
+[INFO] 19:35:23:207 consola/(6792:6792): PUERTO KERNEL: 4444
+[WARNING] 19:35:53:142 consola/(6792:6792): Operacion desconocida. No quieras meter la pata
+[INFO] 19:36:02:826 consola/(6848:6848): IP KERNEL: 127.0.0.1
+[INFO] 19:36:02:831 consola/(6848:6848): PUERTO KERNEL: 4444
+[WARNING] 19:36:02:832 consola/(6848:6848): Operacion desconocida. No quieras meter la pata
+[INFO] 19:36:49:579 consola/(6902:6902): IP KERNEL: 127.0.0.1
+[INFO] 19:36:49:582 consola/(6902:6902): PUERTO KERNEL: 4444
+[WARNING] 19:36:49:582 consola/(6902:6902): Operacion desconocida. No quieras meter la pata
+[INFO] 19:37:31:955 consola/(6959:6959): IP KERNEL: 127.0.0.1
+[INFO] 19:37:31:956 consola/(6959:6959): PUERTO KERNEL: 4444
+[WARNING] 19:37:31:956 consola/(6959:6959): Operacion desconocida. No quieras meter la pata
+[INFO] 19:38:28:368 consola/(7005:7005): IP KERNEL: 127.0.0.1
+[INFO] 19:38:28:370 consola/(7005:7005): PUERTO KERNEL: 4444
+[WARNING] 19:38:28:370 consola/(7005:7005): Operacion desconocida. No quieras meter la pata
+[INFO] 19:38:47:899 consola/(7049:7049): IP KERNEL: 127.0.0.1
+[INFO] 19:38:47:909 consola/(7049:7049): PUERTO KERNEL: 4444
+[WARNING] 19:40:26:012 consola/(7049:7049): Operacion desconocida. No quieras meter la pata
+[INFO] 19:40:32:673 consola/(7106:7106): IP KERNEL: 127.0.0.1
+[INFO] 19:40:32:675 consola/(7106:7106): PUERTO KERNEL: 4444
+[WARNING] 19:40:32:675 consola/(7106:7106): Operacion desconocida. No quieras meter la pata
+[INFO] 19:41:37:310 consola/(7194:7194): IP KERNEL: 127.0.0.1
+[INFO] 19:41:37:311 consola/(7194:7194): PUERTO KERNEL: 4444
+[WARNING] 19:41:48:541 consola/(7194:7194): Operacion desconocida. No quieras meter la pata
+[INFO] 19:42:00:287 consola/(7246:7246): IP KERNEL: 127.0.0.1
+[INFO] 19:42:00:292 consola/(7246:7246): PUERTO KERNEL: 4444
+[WARNING] 19:42:00:293 consola/(7246:7246): Operacion desconocida. No quieras meter la pata
+[INFO] 19:46:57:799 consola/(7316:7316): IP KERNEL: 127.0.0.1
+[INFO] 19:46:57:811 consola/(7316:7316): PUERTO KERNEL: 4444
+[WARNING] 19:46:57:813 consola/(7316:7316): Operacion desconocida. No quieras meter la pata
+[INFO] 19:47:22:408 consola/(7338:7338): IP KERNEL: 127.0.0.1
+[INFO] 19:47:22:409 consola/(7338:7338): PUERTO KERNEL: 4444
+[WARNING] 19:47:37:085 consola/(7338:7338): Operacion desconocida. No quieras meter la pata
+[INFO] 19:47:43:039 consola/(7383:7383): IP KERNEL: 127.0.0.1
+[INFO] 19:47:43:040 consola/(7383:7383): PUERTO KERNEL: 4444
+[WARNING] 19:47:43:040 consola/(7383:7383): Operacion desconocida. No quieras meter la pata
+[INFO] 19:48:27:431 consola/(7440:7440): IP KERNEL: 127.0.0.1
+[INFO] 19:48:27:433 consola/(7440:7440): PUERTO KERNEL: 4444
+[INFO] 19:48:57:172 consola/(7495:7495): IP KERNEL: 127.0.0.1
+[INFO] 19:48:57:173 consola/(7495:7495): PUERTO KERNEL: 4444
+[INFO] 19:49:27:653 consola/(7587:7587): IP KERNEL: 127.0.0.1
+[INFO] 19:49:27:659 consola/(7587:7587): PUERTO KERNEL: 4444
+[WARNING] 19:49:50:084 consola/(7587:7587): Operacion desconocida. No quieras meter la pata
+[INFO] 19:49:58:304 consola/(7682:7682): IP KERNEL: 127.0.0.1
+[INFO] 19:49:58:308 consola/(7682:7682): PUERTO KERNEL: 4444
+[WARNING] 19:49:58:310 consola/(7682:7682): Operacion desconocida. No quieras meter la pata
+[INFO] 19:52:39:995 consola/(7766:7766): IP KERNEL: 127.0.0.1
+[INFO] 19:52:39:995 consola/(7766:7766): PUERTO KERNEL: 4444
+[WARNING] 19:52:39:995 consola/(7766:7766): Operacion desconocida. No quieras meter la pata
+[INFO] 19:53:00:616 consola/(7808:7808): IP KERNEL: 127.0.0.1
+[INFO] 19:53:00:617 consola/(7808:7808): PUERTO KERNEL: 4444
+[WARNING] 19:53:00:617 consola/(7808:7808): Operacion desconocida. No quieras meter la pata
+[INFO] 19:53:46:891 consola/(7869:7869): IP KERNEL: 127.0.0.1
+[INFO] 19:53:46:894 consola/(7869:7869): PUERTO KERNEL: 4444
+[INFO] 19:54:21:012 consola/(7924:7924): IP KERNEL: 127.0.0.1
+[INFO] 19:54:21:013 consola/(7924:7924): PUERTO KERNEL: 4444
+[INFO] 19:54:37:063 consola/(7977:7977): IP KERNEL: 127.0.0.1
+[INFO] 19:54:37:068 consola/(7977:7977): PUERTO KERNEL: 4444
+[INFO] 19:55:03:301 consola/(8046:8046): IP KERNEL: 127.0.0.1
+[INFO] 19:55:03:303 consola/(8046:8046): PUERTO KERNEL: 4444
+[INFO] 19:55:51:162 consola/(8119:8119): IP KERNEL: 127.0.0.1
+[INFO] 19:55:51:162 consola/(8119:8119): PUERTO KERNEL: 4444
+[INFO] 19:56:04:062 consola/(8158:8158): IP KERNEL: 127.0.0.1
+[INFO] 19:56:04:062 consola/(8158:8158): PUERTO KERNEL: 4444
+[INFO] 19:56:22:356 consola/(8191:8191): IP KERNEL: 127.0.0.1
+[INFO] 19:56:22:363 consola/(8191:8191): PUERTO KERNEL: 4444
+[INFO] 19:56:49:537 consola/(8226:8226): IP KERNEL: 127.0.0.1
+[INFO] 19:56:49:538 consola/(8226:8226): PUERTO KERNEL: 4444
+[INFO] 19:57:15:715 consola/(8269:8269): IP KERNEL: 127.0.0.1
+[INFO] 19:57:15:717 consola/(8269:8269): PUERTO KERNEL: 4444
+[INFO] 19:57:30:014 consola/(8312:8312): IP KERNEL: 127.0.0.1
+[INFO] 19:57:30:016 consola/(8312:8312): PUERTO KERNEL: 4444
+[INFO] 19:57:49:370 consola/(8353:8353): IP KERNEL: 127.0.0.1
+[INFO] 19:57:49:371 consola/(8353:8353): PUERTO KERNEL: 4444
+[INFO] 19:58:18:075 consola/(8405:8405): IP KERNEL: 127.0.0.1
+[INFO] 19:58:18:084 consola/(8405:8405): PUERTO KERNEL: 4444
+[INFO] 19:58:34:011 consola/(8485:8485): IP KERNEL: 127.0.0.1
+[INFO] 19:58:34:012 consola/(8485:8485): PUERTO KERNEL: 4444
+[INFO] 19:58:44:553 consola/(8530:8530): IP KERNEL: 127.0.0.1
+[INFO] 19:58:44:555 consola/(8530:8530): PUERTO KERNEL: 4444
+[INFO] 19:58:58:161 consola/(8607:8607): IP KERNEL: 127.0.0.1
+[INFO] 19:58:58:162 consola/(8607:8607): PUERTO KERNEL: 4444
+[INFO] 19:59:10:659 consola/(8656:8656): IP KERNEL: 127.0.0.1
+[INFO] 19:59:10:659 consola/(8656:8656): PUERTO KERNEL: 4444
+[INFO] 19:59:22:414 consola/(8743:8743): IP KERNEL: 127.0.0.1
+[INFO] 19:59:22:414 consola/(8743:8743): PUERTO KERNEL: 4444
+[INFO] 19:59:34:808 consola/(8829:8829): IP KERNEL: 127.0.0.1
+[INFO] 19:59:34:809 consola/(8829:8829): PUERTO KERNEL: 4444
+[INFO] 19:59:45:299 consola/(8901:8901): IP KERNEL: 127.0.0.1
+[INFO] 19:59:45:305 consola/(8901:8901): PUERTO KERNEL: 4444
+[INFO] 20:00:03:098 consola/(8967:8967): IP KERNEL: 127.0.0.1
+[INFO] 20:00:03:099 consola/(8967:8967): PUERTO KERNEL: 4444
+[INFO] 20:00:19:869 consola/(9000:9000): IP KERNEL: 127.0.0.1
+[INFO] 20:00:19:877 consola/(9000:9000): PUERTO KERNEL: 4444
+[INFO] 20:00:54:958 consola/(9066:9066): IP KERNEL: 127.0.0.1
+[INFO] 20:00:54:963 consola/(9066:9066): PUERTO KERNEL: 4444
+[INFO] 20:01:22:704 consola/(9111:9111): IP KERNEL: 127.0.0.1
+[INFO] 20:01:22:704 consola/(9111:9111): PUERTO KERNEL: 4444
+[INFO] 20:02:10:110 consola/(9156:9156): IP KERNEL: 127.0.0.1
+[INFO] 20:02:10:111 consola/(9156:9156): PUERTO KERNEL: 4444
+[INFO] 20:02:56:493 consola/(9256:9256): IP KERNEL: 127.0.0.1
+[INFO] 20:02:56:503 consola/(9256:9256): PUERTO KERNEL: 4444
+[WARNING] 20:02:56:504 consola/(9256:9256): Operacion desconocida. No quieras meter la pata
+[INFO] 20:03:55:927 consola/(9327:9327): IP KERNEL: 127.0.0.1
+[INFO] 20:03:55:929 consola/(9327:9327): PUERTO KERNEL: 4444
+[WARNING] 20:03:55:935 consola/(9327:9327): Operacion desconocida. No quieras meter la pata
+[INFO] 20:04:30:919 consola/(9396:9396): IP KERNEL: 127.0.0.1
+[INFO] 20:04:30:920 consola/(9396:9396): PUERTO KERNEL: 4444
+[WARNING] 20:04:30:920 consola/(9396:9396): Operacion desconocida. No quieras meter la pata
+[INFO] 20:04:46:789 consola/(9450:9450): IP KERNEL: 127.0.0.1
+[INFO] 20:04:46:789 consola/(9450:9450): PUERTO KERNEL: 4444
+[WARNING] 20:04:46:789 consola/(9450:9450): Operacion desconocida. No quieras meter la pata
+[INFO] 20:05:01:823 consola/(9505:9505): IP KERNEL: 127.0.0.1
+[INFO] 20:05:01:823 consola/(9505:9505): PUERTO KERNEL: 4444
+[WARNING] 20:05:01:824 consola/(9505:9505): Operacion desconocida. No quieras meter la pata
+[INFO] 20:05:15:062 consola/(9526:9526): IP KERNEL: 127.0.0.1
+[INFO] 20:05:15:063 consola/(9526:9526): PUERTO KERNEL: 4444
+[WARNING] 20:05:38:398 consola/(9526:9526): Operacion desconocida. No quieras meter la pata

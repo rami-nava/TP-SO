@@ -1,5 +1,5 @@
-#ifndef UTILSCLIENTE_H_
-#define UTILSCLIENTE_H_
+#ifndef UTILS_H_
+#define UTILS_H_
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -9,6 +9,14 @@
 #include<netdb.h>
 #include<string.h>
 #include<commons/log.h>
+#include<commons/collections/list.h>
+#include<string.h>
+#include<assert.h>
+
+#define IP "127.0.0.1"
+#define PUERTO "4444"
+
+
 
 typedef enum
 {
@@ -39,4 +47,16 @@ void enviar_paquete(t_paquete* paquete, int socket_cliente);
 void liberar_conexion(int socket_cliente);
 void eliminar_paquete(t_paquete* paquete);
 
+
+extern t_log* logger;
+
+void* recibir_buffer(int*, int);
+
+int iniciar_servidor(void);
+int esperar_cliente(int);
+t_list* recibir_paquete(int);
+void recibir_mensaje(int);
+int recibir_operacion(int);
+
 #endif /* UTILS_H_ */
+

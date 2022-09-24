@@ -17,9 +17,40 @@ int main(int argc, char** argv){
     log_info(logger, "IP KERNEL: %s", ip_kernel);
     log_info(logger, "PUERTO KERNEL: %s", puerto_kernel);
 
+
     //Conexion
     conexion = crear_conexion(ip_kernel, puerto_kernel);
-    enviar_mensaje("informacion correspondiente al listado de instrucciones \n",conexion);
+    paquete = crear_paquete();
+
+    	char caracter;
+    	char instruccion [Max];
+
+        FILE *fp;
+        fp = fopen ( argv[2], "r" );
+    	if (fp == NULL)
+        {
+            printf("Error, no se pudo leer el archivo con las instrucciones \n");
+            return EXIT_FAILURE;
+        }
+        else
+        {
+        	while((caracter = fgetc(fp)) != EOF){
+            	int i = 0;
+            	while(caracter != '\n')
+            	{
+            		instruccion[i] = caracter;
+            		i++;
+            		caracter = fgetc(fp);
+            	}
+
+            agregar_a_paquete(paquete,instruccion,strlen(instruccion)+1);
+            }
+        }
+        fclose(fp);
+
+
+    enviar_paquete(paquete,conexion);
+
 
     int cod_op = recibir_operacion(conexion);
 
@@ -37,7 +68,7 @@ int main(int argc, char** argv){
     	log_warning(logger,"Operacion desconocida. No quieras meter la pata");
     	break;
     		}
-    }
+
 
     terminar_programa(logger,config,conexion);
 
